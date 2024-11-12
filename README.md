@@ -22,7 +22,7 @@ Hi, I'm Anandu Kumaresan, a cybersecurity enthusiast with a Master’s degree in
 <div>
 <a href=https://www.credly.com/badges/6cb8ebed-528b-458e-8557-4e709447b828/linked_in_profile><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
   
-<a href="https://certs.ine.com/d1e97f66-47e7-4b6d-9d42-c27914884d38"><img src="(https://img.shields.io/badge/eJPT-Certified-red" />
+<a href="https://certs.ine.com/d1e97f66-47e7-4b6d-9d42-c27914884d38"><img src="https://img.shields.io/badge/eJPT-Certified-red" />
 
 [![Azure Fundamentals](https://img.shields.io/badge/Azure%20Fundamentals-blue?logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/AnanduKumaresan-3933/78285227493D200B?sharingId=B2614B2008D3C48C)
 </div>
