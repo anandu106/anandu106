@@ -43,10 +43,13 @@ Hi, I'm Anandu Kumaresan, a cybersecurity enthusiast with a Master’s degree in
 
 ### Projects
 
+| <a href="https://github.com/anandu106/ad_project"> Active Directory Homelab </a>
+
+| Malware Analysis Lab 
+
 ### Badges
 
-| <a href="https://github.com/anandu106/ad_project"> Active Directory Homelab </a>
-| Malware Analysis Lab 
+
 
 <b>My GitHub Stats</b>
 
