@@ -32,9 +32,9 @@ Hi, I'm Anandu Kumaresan, a cybersecurity enthusiast with a Master’s degree in
 
 |  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/YZWMJGND3SAB" /> Google IT Automation with Python Specialization </a>
 
-|  <a href="https://app.letsdefend.io/certificate/show/86827b0a-42cf-4b6d-a603-4f2cf07ecb9b">SOC Analyst Learning Path</a>
+|  <a href="https://app.letsdefend.io/certificate/show/86827b0a-42cf-4b6d-a603-4f2cf07ecb9b"> LetsDefend - SOC Analyst Learning Path </a>
 
-|  <a href="https://app.letsdefend.io/certificate/show/e202965c-eef9-4ab4-a61e-8461d0d1962a" /> Malware Analysis Skill Path </a>                                        
+|  <a href="https://app.letsdefend.io/certificate/show/e202965c-eef9-4ab4-a61e-8461d0d1962a" /> LetsDefend - Malware Analysis Skill Path </a>                                        
 
 
 ### Socials
