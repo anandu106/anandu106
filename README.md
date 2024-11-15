@@ -45,6 +45,8 @@ Hi, I'm Anandu Kumaresan, a cybersecurity enthusiast with a Master’s degree in
 
 | <a href="https://github.com/anandu106/ad_project"> Active Directory Homelab </a>
 
+| <a href="https://github.com/anandu106/soar_edr_project">SOAR EDR Project</a>
+
 | Malware Analysis Lab 
 
 ### Badges
