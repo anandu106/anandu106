@@ -28,6 +28,8 @@ Hi, I'm Anandu Kumaresan, a cybersecurity enthusiast with a Master’s degree in
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/AnanduKumaresan-3933/78285227493D200B?sharingId=B2614B2008D3C48C"><img src="https://img.shields.io/badge/Azure%20Fundamentals-blue?logo=microsoft-azure&logoColor=white" />
 </div>
 
+<a href="https://www.credly.com/badges/8e03539c-8c04-46d9-b9db-9523ce532b03"><img src="https://img.shields.io/badge/CCNA-white?style=for-the-badge&logo=cisco" />
+
 ### Certificate of Completion 
 |  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/QP4NJEQUPLXK" /> Google Cybersecurity Specialization </a>
 
@@ -36,7 +38,6 @@ Hi, I'm Anandu Kumaresan, a cybersecurity enthusiast with a Master’s degree in
 |  <a href="https://app.letsdefend.io/certificate/show/86827b0a-42cf-4b6d-a603-4f2cf07ecb9b"> LetsDefend - SOC Analyst Learning Path </a>
 
 |  <a href="https://app.letsdefend.io/certificate/show/e202965c-eef9-4ab4-a61e-8461d0d1962a" /> LetsDefend - Malware Analysis Skill Path </a>                                        
-
 
 ### Socials
 
