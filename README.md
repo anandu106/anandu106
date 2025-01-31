@@ -21,6 +21,8 @@ Hi, I'm Anandu Kumaresan, a cybersecurity enthusiast with a Master’s degree in
 
 ### Certifications
 <div>
+<a href="https://www.credly.com/badges/8e03539c-8c04-46d9-b9db-9523ce532b03"><img src="https://img.shields.io/badge/CCNA-white?style=for-the-badge&logo=cisco" />
+
 <a href=https://www.credly.com/badges/6cb8ebed-528b-458e-8557-4e709447b828/linked_in_profile><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
   
 <a href="https://certs.ine.com/d1e97f66-47e7-4b6d-9d42-c27914884d38"><img src="https://img.shields.io/badge/eJPT-Certified-red" />
@@ -28,7 +30,7 @@ Hi, I'm Anandu Kumaresan, a cybersecurity enthusiast with a Master’s degree in
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/AnanduKumaresan-3933/78285227493D200B?sharingId=B2614B2008D3C48C"><img src="https://img.shields.io/badge/Azure-Fundamentals-blue?logo=microsoft-azure&logoColor=white" />
 </div>
 
-<a href="https://www.credly.com/badges/8e03539c-8c04-46d9-b9db-9523ce532b03"><img src="https://img.shields.io/badge/CCNA-white?style=for-the-badge&logo=cisco" />
+
 
 ### Certificate of Completion 
 |  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/QP4NJEQUPLXK" /> Google Cybersecurity Specialization </a>
