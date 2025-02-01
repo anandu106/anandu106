@@ -33,15 +33,17 @@ Hi, I'm Anandu Kumaresan, a cybersecurity enthusiast with a Master’s degree in
 
 
 ### Certificate of Completion 
-|  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/QP4NJEQUPLXK" /> Google Cybersecurity Specialization </a>
-
-|  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/YZWMJGND3SAB" /> Google IT Automation with Python Specialization </a>
-
 |  <a href="https://app.letsdefend.io/certificate/show/86827b0a-42cf-4b6d-a603-4f2cf07ecb9b"> LetsDefend - SOC Analyst Learning Path </a>
 
 |  <a href="https://app.letsdefend.io/certificate/show/e202965c-eef9-4ab4-a61e-8461d0d1962a" /> LetsDefend - Malware Analysis Skill Path </a>                                        
 
 | <a href="https://app.letsdefend.io/certificate/show/95494c19-388f-4eea-a4f8-d995a1ed3667" /> LetsDefend - Incident Responder Learning Path </a>
+
+|  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/QP4NJEQUPLXK" /> Google Cybersecurity Specialization </a>
+
+|  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/YZWMJGND3SAB" /> Google IT Automation with Python Specialization </a>
+
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/anandu106" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/anandu-kumaresan-b51b74187/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
