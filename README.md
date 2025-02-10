@@ -11,14 +11,12 @@ Hi, I'm Anandu Kumaresan, a cybersecurity enthusiast with a Master’s degree in
 * 🖥️  See my portfolio at [My Portfolio](http://github.com/anandu106)
 * ✉️  You can contact me at [anandukumaresan@ymail.com](mailto:anandukumaresan@ymail.com)
 
-### Skills
+### Visit my Profile
 
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="Images/HTB.png" width="50" height="50" />
-  
 </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="Images/LetsDefend.png" width="50" height="50" alt="Git" />
-
 </a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="Images/kc7.png" width="125" height="50" alt="Python" />
 </p>
 
