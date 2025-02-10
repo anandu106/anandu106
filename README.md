@@ -15,7 +15,7 @@ Hi, I'm Anandu Kumaresan, a cybersecurity enthusiast with a Master’s degree in
 
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="Images/hack-the-box.svg" width="60" height="60" alt="HTB" /></a><a href="[https://git-scm.com/" target="_blank" rel="noreferrer](https://app.letsdefend.io/user/ak10697)"><img src="Images/LetsDefend.png" width="60" height="60" alt="LetsDefend" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="Images/kc7.png" width="150" height="60" alt="KC7" />
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="Images/hack-the-box.svg" width="60" height="60" alt="HTB" /></a><a href="https://app.letsdefend.io/user/ak10697"><img src="Images/LetsDefend.png" width="60" height="60" alt="LetsDefend" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="Images/kc7.png" width="150" height="60" alt="KC7" />
 </p>
 
 
